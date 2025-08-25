@@ -19,7 +19,7 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 - **[Code Genie](#)**  
   AI-based coding assistant designed to generate, debug, and explain code intelligently.
 
-- **[Emotion Detector](#)**  
+- **[Emotion Detector](https://github.com/Vidya111-rrr/Expression-analyzer.git)**  
   Deep learning model that recognizes and classifies human emotions from images/video in real time.
 
 ---
