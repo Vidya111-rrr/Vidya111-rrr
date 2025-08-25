@@ -10,7 +10,7 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 
 ### 🚀 Projects
 
-- **[Smart Waste Management System](#)**  
+- **[Smart Waste Management System](https://github.com/Vidya111-rrr/Ecosync2.0.git)**  
   IoT + AI-powered solution for efficient waste tracking and management, promoting sustainability in urban areas.
 
 - **[Celebrity Look-Alike](https://github.com/Vidya111-rrr/celebrity-look-alike.git)**  
