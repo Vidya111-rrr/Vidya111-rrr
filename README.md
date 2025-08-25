@@ -13,7 +13,7 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 - **[Smart Waste Management System](#)**  
   IoT + AI-powered solution for efficient waste tracking and management, promoting sustainability in urban areas.
 
-- **[Celebrity Look-Alike](#)**  
+- **[Celebrity Look-Alike](https://github.com/Vidya111-rrr/celebrity-look-alike.git)**  
   ML app that maps faces to celebrities using FaceNet & Python (developed for a national tech fest).
 
 - **[Code Genie](#)**  
